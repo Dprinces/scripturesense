@@ -1,0 +1,14 @@
+{
+    "app_name": "PowerPoint",
+    "window_titles": ["PowerPoint", "Slide Show"],
+    "actions": {
+        "search": [], 
+        "confirm": ["enter"]
+    },
+    "delays": {
+        "post_focus": 0.2,
+        "post_search": 0.0,
+        "post_type": 0.1
+    },
+    "note": "PowerPoint doesn't have a native 'search verse' hotkey. This profile assumes a plugin or just typing numbers to jump to slides if they are indexed."
+}

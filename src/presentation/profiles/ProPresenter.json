@@ -1,0 +1,14 @@
+{
+    "app_name": "ProPresenter",
+    "window_titles": ["ProPresenter"],
+    "actions": {
+        "search": ["cmd", "f"],
+        "confirm": ["enter"],
+        "go_live": ["cmd", "enter"]
+    },
+    "delays": {
+        "post_focus": 0.2,
+        "post_search": 0.1,
+        "post_type": 0.2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "app_name": "EasyWorship",
+    "window_titles": ["EasyWorship", "EasyWorship 7"],
+    "actions": {
+        "search": ["ctrl", "b"],
+        "clear": ["backspace", "backspace", "backspace", "backspace", "backspace", "backspace", "backspace", "backspace", "backspace", "backspace"],
+        "confirm": ["enter"],
+        "go_live": ["enter"]
+    },
+    "delays": {
+        "post_focus": 0.2,
+        "post_search": 0.1,
+        "post_type": 0.2
+    }
+}

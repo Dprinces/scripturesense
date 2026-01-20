@@ -1,0 +1,6 @@
+keyboard
+vosk
+SpeechRecognition
+pyaudio
+requests
+pyinstaller
