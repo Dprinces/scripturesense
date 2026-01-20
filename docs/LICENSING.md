@@ -54,8 +54,7 @@ To create a white-label build:
 3.  **Rebuild**:
     - Run `build_windows.bat` with the `--icon=assets/your_icon.ico` flag.
 
-## 📞 Contact
-
+*   **Email**: [dprincedeveloper@gmail.]
 For licensing inquiries, please contact the developer directly.
 
 - **Email**: [contact@scripturesense.tech](mailto:contact@scripturesense.tech)
